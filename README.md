@@ -8,4 +8,4 @@ This project was started because there were no viable alternatives found at the 
 - .net 
 
 ## Note
-As mentioned previously, this is a very old project. Please forgive the messiness. I'm very open to forks and PRs to try to clean this up.
+As mentioned previously, this is a very old project. Please forgive the messiness, I needed to get something out there because otherwise the project was destined to languish in my backups for eternity. I'm very open to forks and PRs to try to clean this up.
