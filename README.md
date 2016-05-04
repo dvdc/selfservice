@@ -1,6 +1,6 @@
 # selfservice
 
-This project was started because there were no viable alternatives found at the time that could provide password reset functionality at a reasonable price. At this point, it is a very old and rather ugly project, but I thought it might be useful to other sysadmins in a similar situation I was. 
+This project provides self service password change and verification functionality to change Active Directory credentials. It was started because there were no viable alternatives that I found at the time that could provide the functionality at a reasonable price. At this point, it is a very old and rather ugly project, but I thought it might be useful to other sysadmins in a similar situation I was. 
 
 ## Basic Requirments
 - Active Directory
